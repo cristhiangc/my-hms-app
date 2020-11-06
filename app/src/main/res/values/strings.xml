@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My HMS App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Huawei Mobile Services</string>
+    <string name="nav_header_subtitle">developer.huawei.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_community">Community</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_push">Push</string>
+    <string name="menu_analytics">Analytics</string>
+</resources>
